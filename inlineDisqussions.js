@@ -32,7 +32,7 @@ var disqus_url;
         highlighted: false,
         position: 'right',
         background: 'white',
-        maxWidth: 100
+        maxWidth: 9999
       };
 
       // Overwrite default options with user provided ones.
